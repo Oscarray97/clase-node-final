@@ -8,7 +8,7 @@ const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
   password : '',
-  database : 'clasenode'
+  database : 'pacientes'
 });
 
 //Conectarnos a la base de datos
